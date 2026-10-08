@@ -1,0 +1,34 @@
+name: Notizie AI su Telegram
+
+on:
+  schedule:
+    - cron: "5 * * * *"   # ogni ora, al minuto 5 (GitHub a volte ritarda di qualche minuto)
+  workflow_dispatch:       # per farlo partire a mano dalla scheda Actions
+
+permissions:
+  contents: write          # per salvare visti.json
+
+concurrency:
+  group: notizie
+  cancel-in-progress: false
+
+jobs:
+  notizie:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Cerca e manda le notizie nuove
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python notizie.py
+      - name: Salva le notizie gia' viste
+        run: |
+          git config user.name "notizieAI-bot"
+          git config user.email "notizieAI-bot@users.noreply.github.com"
+          git add visti.json
+          git diff --cached --quiet || (git commit -q -m "notizie viste $(date -u +%Y-%m-%dT%H:%M)" && git push -q)
