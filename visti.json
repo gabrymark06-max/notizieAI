@@ -267,6 +267,7 @@
 "https://huggingface.co/blog/bridgetower": "2026-10-08T13:18:51.932654+00:00",
 "https://huggingface.co/blog/build-rocm-kernels": "2026-10-08T13:18:51.932654+00:00",
 "https://huggingface.co/blog/building-hf-mcp": "2026-10-08T13:18:51.932654+00:00",
+"https://huggingface.co/blog/building-with-ml-intern": "2026-10-09T00:14:57.832221+00:00",
 "https://huggingface.co/blog/carbon-emissions-on-the-hub": "2026-10-08T13:18:51.932654+00:00",
 "https://huggingface.co/blog/cerebras-gemma4-voice-ai": "2026-10-08T13:18:51.932654+00:00",
 "https://huggingface.co/blog/cfm-case-study": "2026-10-08T13:18:51.932654+00:00",
@@ -1746,6 +1747,7 @@
 "https://openai.com/index/learning-to-reason-with-llms": "2026-10-08T13:18:51.932654+00:00",
 "https://openai.com/index/learning-to-summarize-with-human-feedback": "2026-10-08T13:18:51.932654+00:00",
 "https://openai.com/index/learning-with-opponent-learning-awareness": "2026-10-08T13:18:51.932654+00:00",
+"https://openai.com/index/legalon-halves-codex-costs": "2026-10-09T00:14:57.832221+00:00",
 "https://openai.com/index/legora-financial-statement-review-with-astra": "2026-10-08T13:18:51.932654+00:00",
 "https://openai.com/index/lenfest-ai-collaborative-expansion": "2026-10-08T13:18:51.932654+00:00",
 "https://openai.com/index/lenfest-institute": "2026-10-08T13:18:51.932654+00:00",
@@ -2286,6 +2288,7 @@
 "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/": "2026-10-08T19:48:33.893620+00:00",
 "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/": "2026-10-08T19:48:33.893620+00:00",
 "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/": "2026-10-08T19:48:33.893620+00:00",
+"https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/": "2026-10-09T00:14:57.832221+00:00",
 "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/": "2026-10-08T19:48:33.893620+00:00",
 "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/": "2026-10-08T19:48:33.893620+00:00",
 "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/": "2026-10-08T19:48:33.893620+00:00",
@@ -2294,6 +2297,7 @@
 "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/": "2026-10-08T19:48:33.893620+00:00",
 "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/": "2026-10-08T19:48:33.893620+00:00",
 "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/": "2026-10-08T19:48:33.893620+00:00",
+"https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/": "2026-10-09T00:14:57.832221+00:00",
 "https://www.anthropic.com/claude-corps": "2026-10-08T13:18:51.932654+00:00",
 "https://www.anthropic.com/claude-haiku-5-5": "2026-10-08T13:18:51.932654+00:00",
 "https://www.anthropic.com/claude-opus-5-5": "2026-10-08T13:18:51.932654+00:00",
@@ -2319,6 +2323,7 @@
 "https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts": "2026-10-08T19:48:33.893620+00:00",
 "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude": "2026-10-08T19:48:33.893620+00:00",
 "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit": "2026-10-08T19:48:33.893620+00:00",
+"https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner": "2026-10-09T00:14:57.832221+00:00",
 "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free": "2026-10-08T19:48:33.893620+00:00",
 "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell": "2026-10-08T13:18:51.932654+00:00",
 "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support": "2026-10-08T13:18:51.932654+00:00",
@@ -2328,5 +2333,6 @@
 "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced": "2026-10-08T13:18:51.932654+00:00",
 "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise": "2026-10-08T19:48:33.893620+00:00",
 "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline": "2026-10-08T19:48:33.893620+00:00",
-"https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson": "2026-10-08T19:48:33.893620+00:00"
+"https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson": "2026-10-08T19:48:33.893620+00:00",
+"https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human": "2026-10-09T00:14:57.832221+00:00"
 }
