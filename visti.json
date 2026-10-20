@@ -229,6 +229,7 @@
 "https://huggingface.co/blog/amused": "2026-10-08T13:18:51.932654+00:00",
 "https://huggingface.co/blog/annotated-diffusion": "2026-10-08T13:18:51.932654+00:00",
 "https://huggingface.co/blog/anylanguagemodel": "2026-10-08T13:18:51.932654+00:00",
+"https://huggingface.co/blog/anylanguagemodel-1-0": "2026-10-20T14:55:35.870281+00:00",
 "https://huggingface.co/blog/arena-atla": "2026-10-08T13:18:51.932654+00:00",
 "https://huggingface.co/blog/arena-lighthouz": "2026-10-08T13:18:51.932654+00:00",
 "https://huggingface.co/blog/arena-tts": "2026-10-08T13:18:51.932654+00:00",
@@ -679,6 +680,7 @@
 "https://huggingface.co/blog/modular-diffusers": "2026-10-08T13:18:51.932654+00:00",
 "https://huggingface.co/blog/moe": "2026-10-08T13:18:51.932654+00:00",
 "https://huggingface.co/blog/moe-transformers": "2026-10-08T13:18:51.932654+00:00",
+"https://huggingface.co/blog/mps-pytorch-2-15": "2026-10-20T14:55:35.870281+00:00",
 "https://huggingface.co/blog/mteb": "2026-10-08T13:18:51.932654+00:00",
 "https://huggingface.co/blog/multi-lora-serving": "2026-10-08T13:18:51.932654+00:00",
 "https://huggingface.co/blog/multi-vector-encoder": "2026-10-08T13:18:51.932654+00:00",
@@ -2440,6 +2442,11 @@
 "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/": "2026-10-19T19:13:54.235038+00:00",
 "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/": "2026-10-19T19:13:54.235038+00:00",
 "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/": "2026-10-19T19:13:54.235038+00:00",
+"https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/": "2026-10-20T14:55:35.870281+00:00",
+"https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/": "2026-10-20T14:55:35.870281+00:00",
+"https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/": "2026-10-20T14:55:35.870281+00:00",
+"https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/": "2026-10-20T14:55:35.870281+00:00",
+"https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/": "2026-10-20T14:55:35.870281+00:00",
 "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/": "2026-10-09T20:46:03.898025+00:00",
 "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/": "2026-10-16T17:19:13.896270+00:00",
 "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/": "2026-10-16T17:19:13.896270+00:00",
@@ -2501,6 +2508,7 @@
 "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health": "2026-10-14T18:29:45.558567+00:00",
 "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit": "2026-10-10T22:24:39.542332+00:00",
 "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial": "2026-10-15T22:07:15.303298+00:00",
+"https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed": "2026-10-20T14:55:35.870281+00:00",
 "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art": "2026-10-13T15:51:49.444250+00:00",
 "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux": "2026-10-14T18:29:45.558567+00:00",
 "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled": "2026-10-16T01:09:56.913113+00:00",
@@ -2545,5 +2553,6 @@
 "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps": "2026-10-15T22:07:15.303298+00:00",
 "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions": "2026-10-16T17:19:13.896270+00:00",
 "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers": "2026-10-16T17:19:13.896270+00:00",
-"https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites": "2026-10-17T16:59:31.175166+00:00"
+"https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites": "2026-10-17T16:59:31.175166+00:00",
+"https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair": "2026-10-20T14:55:35.870281+00:00"
 }
