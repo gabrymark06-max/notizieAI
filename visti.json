@@ -956,6 +956,7 @@
 "https://huggingface.co/blog/tokenizers-v1": "2026-10-08T13:18:51.932654+00:00",
 "https://huggingface.co/blog/torch-attention-profile": "2026-10-08T13:18:51.932654+00:00",
 "https://huggingface.co/blog/torch-mlp-fusion": "2026-10-08T13:18:51.932654+00:00",
+"https://huggingface.co/blog/torch-neuronx-model-support": "2026-10-23T14:54:05.927336+00:00",
 "https://huggingface.co/blog/torch-profiler": "2026-10-08T13:18:51.932654+00:00",
 "https://huggingface.co/blog/tpu-inference-endpoints-spaces": "2026-10-08T13:18:51.932654+00:00",
 "https://huggingface.co/blog/trackio": "2026-10-08T13:18:51.932654+00:00",
@@ -2584,6 +2585,7 @@
 "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai": "2026-10-19T23:32:14.740948+00:00",
 "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed": "2026-10-21T04:29:40.807908+00:00",
 "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems": "2026-10-21T15:02:59.397432+00:00",
+"https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port": "2026-10-23T14:54:05.927336+00:00",
 "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents": "2026-10-21T23:10:29.418353+00:00",
 "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent": "2026-10-21T23:10:29.418353+00:00",
 "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report": "2026-10-21T23:10:29.418353+00:00",
@@ -2656,5 +2658,6 @@
 "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network": "2026-10-22T19:11:02.525271+00:00",
 "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts": "2026-10-22T23:12:58.653200+00:00",
 "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns": "2026-10-22T23:12:58.653200+00:00",
+"https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping": "2026-10-23T14:54:05.927336+00:00",
 "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps": "2026-10-21T15:02:59.397432+00:00"
 }
