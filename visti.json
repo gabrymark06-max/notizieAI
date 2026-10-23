@@ -221,6 +221,7 @@
 "https://huggingface.co/blog/allenai/fairstress": "2026-10-20T19:08:15.686265+00:00",
 "https://huggingface.co/blog/allenai/hiro-acev2": "2026-10-14T18:29:45.558567+00:00",
 "https://huggingface.co/blog/allenai/impactful-scheduling": "2026-10-09T20:46:03.898025+00:00",
+"https://huggingface.co/blog/allenai/litpivot": "2026-10-23T19:04:16.485267+00:00",
 "https://huggingface.co/blog/allenai/olmoearth-embeddings": "2026-10-08T13:18:51.932654+00:00",
 "https://huggingface.co/blog/allenai/olmoearth-v1-1": "2026-10-08T13:18:51.932654+00:00",
 "https://huggingface.co/blog/allenai/olmoearth-v1-3": "2026-10-22T19:11:02.525271+00:00",
@@ -2148,6 +2149,7 @@
 "https://openai.com/index/scaling-postgresql": "2026-10-08T13:18:51.932654+00:00",
 "https://openai.com/index/scaling-social-science-research": "2026-10-08T13:18:51.932654+00:00",
 "https://openai.com/index/scaling-storage-one-billion-users-part-one": "2026-10-08T13:18:51.932654+00:00",
+"https://openai.com/index/scaling-storage-one-billion-users-part-two": "2026-10-23T19:04:16.485267+00:00",
 "https://openai.com/index/scaling-trusted-access-for-cyber-defense": "2026-10-08T13:18:51.932654+00:00",
 "https://openai.com/index/scania": "2026-10-08T13:18:51.932654+00:00",
 "https://openai.com/index/schoolai": "2026-10-08T13:18:51.932654+00:00",
@@ -2615,6 +2617,7 @@
 "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy": "2026-10-15T18:11:46.713426+00:00",
 "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws": "2026-10-19T19:13:54.235038+00:00",
 "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation": "2026-10-22T15:04:16.494396+00:00",
+"https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast": "2026-10-23T19:04:16.485267+00:00",
 "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding": "2026-10-09T15:12:54.493640+00:00",
 "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy": "2026-10-14T22:11:30.280593+00:00",
 "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column": "2026-10-15T22:07:15.303298+00:00",
@@ -2659,5 +2662,6 @@
 "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts": "2026-10-22T23:12:58.653200+00:00",
 "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns": "2026-10-22T23:12:58.653200+00:00",
 "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping": "2026-10-23T14:54:05.927336+00:00",
+"https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update": "2026-10-23T19:04:16.485267+00:00",
 "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps": "2026-10-21T15:02:59.397432+00:00"
 }
